@@ -45,6 +45,16 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## FILE ENV
+
+```bash
+PROTOCOL=<protocole> // http
+HOST=<host> //localhost
+PORT=<port> //4000
+DATABASE_URL=mysql://<username>:<password>@127.0.0.1:3306/db_myefrei
+ACCESS_TOKEN_SECRET=<token_secret> //ZAEA5ZE4A...
+```
+
 ## Test
 
 ```bash
